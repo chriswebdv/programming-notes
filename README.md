@@ -13,3 +13,9 @@ If you want to delete everything (git-data, code, etc), just delete the whole di
 from: https://stackoverflow.com/questions/1514054/how-do-i-delete-a-local-repository-in-git
 
 tip: use the following command. rm -fr filename
+
+### Multiline comments in VScode
+
+-hightlight the section you will like to comment
+
+- click on ctrl + up arrow + number 7
